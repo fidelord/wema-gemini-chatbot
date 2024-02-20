@@ -3,7 +3,7 @@ import google.ai.generativelanguage as glm
 import inspect
 from Geminy_tools import CombinedTool
 genai.configure(api_key='AIzaSyBni3m6ekzurFIYa1xxVdAXOI-vXAJdcK0')
-
+genai.temperature = 0.4
 def gpt_stream_wrapper(response):
     for chunk in response:
         chunk_msg= chunk['choices'][0]['delta']

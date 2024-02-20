@@ -17,7 +17,8 @@ def get_completion(prompt):
 	return response 
 
 @app.route("/", methods=['POST', 'GET']) 
-def query_view(): 
+def query_view():
+	print(request)
 	if request.method == 'POST': 
 		print('step1') 
 		prompt = request.form['prompt'] 
@@ -30,4 +31,4 @@ def query_view():
 
 
 if __name__ == "__main__": 
-	app.run(debug=True) 
+	app.run(debug=True,port=8070) 
