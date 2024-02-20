@@ -1,0 +1,405 @@
+MCash
+For Mcash cardless transaction, use
+*945*57# and *945*57*merchantcode*amount#
+CoralPay
+For CoralPay cardless transaction, use *945*58# and *945*000*REFnumber#
+What is ALAT?
+ALAT by Wema is Wema Bank's fully Digital Banking Platform that allows you conduct all your banking transactions without ever having to visit any physical branch.
+Who can use ALAT?
+Everyone! you simply need to get registered on a smartphone. To operate your account, you may use your smartphone or revert to the *945# USSD banking.
+How much does it cost to get ALAT?
+ALAT is free to sign up on.
+Which mobile platforms are supported by the ALAT Application?
+The ALAT is currently supported on all IOS and Android devices. Please visit your Google Play store or App Store to download the application.
+Can I create goals on ALAT?
+Yes, goals creation is allowed for all tier three savings and current account holders on ALAT.
+Email Indemnity Form
+For Email Indemnity
+What type of goals can I create on ALAT?
+We have 3 variants of goals on ALAT
+Fixed Goal: You can save daily, weekly or monthly towards a target amount with no withdrawals allowed. You also qualify for interest when you meet the target amount you set. Flexi Goal: You can save daily, weekly or monthly towards a target amount with 50% withdrawal allowed on the amount saved. You also qualify for interest when you meet the target amount you set.
+Stash: You can save whatever you want, whenever you want, no withdrawal allowed. You also qualify for interest on your savings after 30 days.
+You can earn up to 10% interest per annum on your Goal savings.
+What is the highest amount I can save on goals?
+NGN 999,999,999
+Can I take loan on my goals?
+Yes. You are entitled to a goal-based loan of up to 80% of the amount saved on goals at an interest of 20% per annum.
+How to register on ALAT
+Open app to landing page.
+Click get started
+Click Continue on value proposition page
+Validate BVN
+Enter BVN
+Take photo of face
+Take photo of signature
+If BVN facial match fails,
+OTP would be sent to a new customer's BVN phone number and used as an alternative for validating BVN.
+OTP would be sent to existing WEMA Bank customer's BVN phone number and used as an alternative for validating BVN.
+Create Profile
+Enter email
+Enter password
+Confirm password
+Secure Your account
+Choose security question
+Answer security answer
+Enter referral code
+Get to ALAT Dashboard and get Account number.
+New to bank customers follow prompts to upgrade account:
+Create PIN
+Update residential address
+Upload ID
+Wallet customers on ALAT
+Starting the process:
+Open app to landing page.
+Click get started
+Click "Continue" on value proposition page
+Initiating Wallet:
+Click "Skip BVN" on BVN validation page Enter Wallet details:
+Phone number
+First name
+Last name
+Middle name (optional)
+Gender
+Date of birth
+Validate OTP to phone number.
+Create Profile
+Enter email
+Enter password
+Confirm password
+Secure your account
+Choose security question
+Answer security answer
+Enter referral code
+Get to ALAT Dashboard and get Wallet number.
+Upgrade wallet later to account
+Link BVN
+How to Perform a Password Reset
+On the ALAT application
+Click on the 'Forgot Password' option
+Enter your registered email address or username and click next Enter new password, and confirm new password entry.
+Validate with ALAT PIN or Security Answer
+Receive OTP on registered phone number and input in OTP segment
+Click Submit
+Login with new password
+You need to have access to your registered Phone number to successfully reset your forgotten password
+How to create an ALAT GOAL
+Log into ALAT application using your registered email address and password
+Log into ALAT application using your registered email address and password
+Select "Goals" on the Home Page
+Select your preferred savings type from either Personal Savings or Group Savings
+For Personal Savings,
+Select one of Fixed, Flexi or Stash Goals
+Fill in the required fields and select "Next"
+Review input and select "Create Goal"
+For Group Savings,
+Select Preferred savings type or "Join a group"
+Fill in the required fields (Group Code for Group Savings) and select "Next"
+Review input and select "Create Goal"
+Note: Up to 12 users can perform a Group Savings on ALAT
+How to perform ALAT PIN reset
+Log into ALAT application using your registered email address and password
+Click on 'Settings' and tap on 'ALAT Pin Management'
+Click on 'Forgot ALAT Pin'
+Input the answer to your Security Question
+Receive OTP in registered email address and input in OTP segment
+Input New Pin and Confirm New Pin
+Click Submit
+You need to have access to your registered Email address to successfully reset your ALAT PIN
+How to Hotlist my ALAT card
+Log into ALAT application using your registered email address and password
+Select "Cards" on Home Page
+Select "My Cards"
+Select "Hotlist Card"
+Select a reason for Card Hotlist on the list
+Input ALAT PIN and select Hotlist
+You can Hotlist your ALAT card if it is lost, stolen, damaged or if you suspect any fraudulent activity on your account.
+My account is restricted, what do I do?
+So sorry for the inconvenience, please check your mail for notifications from the Bank communicating the reason for this account and the steps required to rectify the issue.
+No email? Do not panic, kindly chat us on Whatsapp on 09044411010 and we would be
+happy to assist, alternatively you click on this link to log a complaint https://purpleconnect.wemabank.com/support/tickets/new
+My transaction was declined, what can I do?
+So sorry for the inconvenience, please check your account balance to confirm if the sufficiency of funds in your account.
+Is your account balance sufficient and still the transaction was declined? kindly check your email for notifications from the Bank communicating the reason for the decline and the steps required to rectify the issue.
+No email? Do not panic, kindly chat us on Whatsapp on 09044411010 and we would be
+happy to assist, alternatively you can click on this link to log a complaint https://purpleconnect.wemabank.com/support/tickets/new
+Can a draft be issued on a Purple Account and what charges will apply?
+Drafts issued for payment of school fees are commission-free, for other drafts normal charges apply.
+Is there interest on this account?
+Yes, you earn the same interest as savings account
+What is the opening balance for Purple Account?
+N1,000
+How is this account different from a normal savings account?
+The account is meant specifically for youth; hence you get to enjoy events and promotional activities designed for youths. The documentation and age requirements of the account are also in line with what is obtainable in the youth segment.
+Does my parent need to give their approval for me to open this account?
+No, they don't. You can open this account on your own.
+I am in the university; do I qualify to open this product?
+Yes, you do.
+What is Purple Account?
+This is a savings account for teenagers & young adults especially those in secondary schools, tertiary institutions & fresh graduates. The account is designed to give financial freedom to young adults.
+What age group qualifies to operate this account?
+13-30 years
+What is the maximum single deposit/withdrawal limit for this account?
+The maximum single deposit limit for this account is N100,000
+If you receive amounts more than this, you will need to upgrade your account to a Tier 3 savings account.
+Daily Digital (ALAT, USSD, POS, ATM) transaction limit is N100,000. You can withdraw up to N100,000 on any of our Digital channel
+What are the documents required to open this account?
+Duly completed account opening form including signature mandate card
+BVN
+1 Passport Photograph
+Any ID Card
+Evidence of residential address (Water, Electricity, Waste, or telephone).
+Can I get a debit card on this account?
+Yes, you can
+What documents do I need to provide to be able to upgrade my Purple account to a Purple Plus/Standard savings account?
+You'll need to provide a valid means of identity i.e.
+National ID Card
+PVC
+Driver's License or Intl Passport.
+What benefits would I get if I upgrade my account to a Purple Plus Account?
+You'll be able to enjoy the full benefits of Tier 3 account with;
+No limits to transfers
+No single deposit limits
+No total savings limit
+You'll also have access to all events and promotional activities designed for youths.
+Is there a maximum cumulative balance for this account?
+Yes, N500,000
+What is the minimum operating balance for this account?
+Zero (0)
+Cable TV: Range
+For cable TV menu, use *945*10#
+DSTV
+For DSTV, use *945*11# and *945*11*smartcardnumber#
+GOTV
+For GOTV, use *945*12# and *945*12*smartcardnumber#
+Startimes
+For Startimes, use *945*13# and *945*13*smartcardnumber#
+Airtime (Others)
+For airtime recharge (others), use *945*phonenumber*amount#
+Airtime (Self)
+For airtime recharge (self), use *945*amount#
+Airtime/Data
+For airtime/data top-up, use *945*9#
+Transfers
+To transfer/send money, use *945*accountnumber*amount#
+Account Balance
+To check your account balance,
+1. Use *945*0# 2. Log into your ALAT app.
+Account Opening
+To open a new account, use *945*1#
+Account Reactivation
+To reactivate your account, use *945*5#
+Account Restriction
+To restrict your account, use *945*991#
+BVN Management
+For BVN management, use *945*4#
+Change PIN
+To change your PIN, use *945*00#
+Change Primary Account
+To change your primary account, use *945*2*oldaccountnumber*newaccountnumber#
+What Is USSD?
+USSD is the service that allows all WEMA Bank account holders to initiate transactions from their registered phone number regardless of the type of phone by dialing *945#.
+What activities can I perform using this service?
+Airtime/data purchase
+Transfer (intrabank and interbank)
+Bills payment (Cable TV, Electricity bill, Internet services)
+Cardless transactions (Mcash, Coralpay)
+Open account
+Check balance
+Change PIN & Account
+Link/Get BVN
+Lagos state collection Account restrictions
+What is the code for Wema USSD?
+*945#
+How do I register for Wema USSD?
+Dial *945*01#
+Input Account Number
+Input Date of Birth (DD-MM-YYYY)
+Input 4-digit PIN of choice Confirm PIN
+Why should I sign up for Wema USSD?
+It is available outside banking hours (24/7).
+It is secured.
+It doesn't require internet.
+It is easy and convenient to use.
+It's a faster means to carryout transactions.
+Do I need to have a Wema Bank account to sign for USSD?
+Yes, and you can also open an account via USSD.
+I have a Wema Account; can I access my Bank account using USSD?
+Yes
+Can I send money to people not registered on USSD?
+Yes
+What is the maximum I can transfer using USSD?
+#500,000
+How often can customers transfer funds?
+As often as they like to a max of #500,000.
+Is *945# available on all networks?
+Yes, it is available on all networks (MTN, Airtel, 9mobile, GLO)
+How do I switch accounts on USSD?
+*945*old account number*new account number*2#
+Dial *945# from your registered mobile number
+Select Next Page
+Select "Change Account"
+Enter Provisioned Account (the account you currently run USSD on)
+Enter your Preferred Account Enter your USSD PIN
+How do I change my USSD PIN?
+Dial *945*00# from your registered mobile number
+Enter your Current USSD PIN
+Enter New PIN
+Confirm New PIN
+Done
+How do I increase my limit?
+You can increase your limit up to 500,000 daily by visiting the nearest WEMA Bank branch.
+What do I do if I forgot my USSD PIN?
+Visit the nearest WEMA Bank branch and request for a PIN reset or call 070CALLALAT for a PIN Reset.
+My transaction was declined, what can I do?
+So sorry for the inconvenience, please check your account balance to confirm if the sufficiency of funds in your account.
+Is your account balance sufficient and still the transaction was declined? kindly check your email for notifications from the Bank communicating the reason for the decline and the steps required to rectify the issue.
+No email? Do not panic, kindly chat us on Whatsapp on 09044411010 and we would be
+happy to assist, alternatively you can click on this link to log a complaint https://purpleconnect.wemabank.com/support/tickets/new
+ALAT Account Customer Update Form
+To update your ALAT Account Information
+ALAT SMS Deactivation Indemnity Form
+For ALAT SMS Indemnity
+WEMA Account Reactivation Form
+To reactivate your Wema Account
+WEMA Account Upgrade or Conversion Form
+To upgrade your Wema Account
+WEMA Customer Information Update Form (Individual)
+To update your WEMA Account Information
+What are the Acceptable Valid Means of IDs?
+Means of ID:
+This is also referred to as Means of Identification and is needed to confirm the identity of an individual. Some of the information contained in the means of ID are Names, Date of Birth, ID Number etc.
+The recognized means of ID that is accepted in Nigeria include the following -
+Utility bill:
+This is a document accepted as proof of address for individual/sole proprietor accounts and Proof of address cannot be older than 3 months (except for rental agreement).
+What is ALAT for Business?
+ALAT for Business is the Internet Banking platform for Corporate or SME customers.
+Which businesses can sign up on ALAT for business?
+All Corporate and Small Medium Enterprises (SMEs) with existing accounts with the Bank
+Can I request for a debit card for my business on ALAT for Business?
+Yes, you can.
+Can I make offshore transfers using ALAT for Business?
+Yes, you can
+What is the maximum amount I can transfer overseas using ALAT for Business?
+10,000 US dollars per day as directed by CBN
+What are the requirements for registering on ALAT for Business
+A request letter written with the company's letter head and a filled ALAT for Business onboarding form should be sent to the branch OR you can self-onboard by clicking on the "Sign-Up" tab after launching the webpage.
+Do I need a hardware Token?
+Single signatory customers can use just their transacting PIN or PIN + Biometrics to a maximum of N2million and N5million respectively, however, transactions above N5million requires a hard token. Multiple signatory customers must always make use of the hard token regardless of the amount.
+How many users can access my Alat for Business?
+There is no limit to the number of users that can be created on a customer's profile.
+What can I do with ALAT for Business?
+Transfer (intrabank and interbank) to a single beneficiary
+Bulk transfers (intrabank and interbank)
+Foreign Exchange (FX) transfer
+Pay bills
+Buy Airtime
+Request for a Corporate Debit Card
+Download Account Statement View Transaction Receipt
+I want to register on ALAT for Business, what do I need?
+You can self-onboard by clicking on the "Sign-Up" tab after launching the webpage OR you can submit a request letter with your company's letter head and a filled ALAT for Business onboarding form at the branch closest to you.
+How can I sign up on ALAT for Business?
+Self On-boarding (Web Only)
+From your browser, launch the application business.alat.ng
+Click-up Sign-up
+Select profile type (single or multiple signatory)
+Enter your account number
+Enter OTP sent to email/phone number linked to your account number
+Input admin details
+Enter additional account (if any)
+Upload board resolution (For multiple signatory customers only)
+Submit
+N:B The request will be forwarded to the branch and the login information would be forwarded to your email address and phone number (username - sent to admin phone number, default password - sent to admin email address) once the branch verifies this request processes the admin gets login information.
+How to reset your ALAT for Business password on the website
+From your browser, launch the application business.alat.ng
+Click on Forgot Password
+Enter your username
+Click Continue
+Enter a new password
+Confirm your new password
+Enter OTP - sent to phone number/email address linked to your profile Click Reset Password
+How to reset your ALAT for Business password on the mobile application
+Click Forgot Password Enter your username
+Enter a new password
+Confirm your new password
+Click Submit
+Enter OTP - sent to phone number/email address linked to your profile Click Confirm
+How to check my recent transactions on ALAT for Business
+Log in to the ALAT for Business Application.
+From the dashboard which will display all the accounts attached to the profile, click on the account you wish to view, it will display the options Recent Activities and Transaction History.
+On the Recent Activities Option, select the date range and search.
+Also, you can click on Statement which will send the statement into your email.
+My transaction was declined, what can I do?
+So sorry for the inconvenience, please check your account balance to confirm if the sufficiency of funds in your account.
+Is your account balance sufficient and still the transaction was declined? kindly check your email for notifications from the Bank communicating the reason for the decline and the steps required to rectify the issue.
+No email? Do not panic, kindly chat us on Whatsapp on 09044411010 and we would be
+happy to assist, alternatively you can click on this link to log a complaint https://purpleconnect.wemabank.com/support/tickets/new
+My card details got compromised, what do I do?
+Stop usage by immediately turning off master status on card control. If you wish to hotlist your debit card, please visit the ALAT Application or call contact center on 08039003700
+I got an email requesting my card details and pin, what do I do?
+Please do not respond, rather, report fraudsters to us through a different channel entirely. Kindly contact us via telephone on 07000PURPLE or 08039003700 or chat us on Whatsapp on 09044411010 and we would be happy to assist.
+If my phone is stolen or my account has been hacked, what am I expected to do?
+Dial the emergency code *945*911# to deactivate your USSD profile or Block your account.
+A fraudulent transaction occurred on my account, what can I do?
+Immediately visit the ALAT Application to change your login credentials i.e. password and PIN as well as your debit/credit card PIN.
+Should you encounter any difficulty, kindly chat us on Whatsapp on 09044411010 and we would be happy to assist, alternatively you can click on this link to log a complaint https://purpleconnect.wemabank.com/support/tickets/new
+What is Wema School Online Solution? This is a one stop school solution for payments
+What schools are eligible?
+All schools are eligible
+Primary School
+Secondary School
+Colleges of Education
+Polytechnics Universities
+What does the school require to enlist on this school solution?
+Online presence, license to operate as a school.
+Can the school opt for only the fees payment module without enlisting on the portal solution?
+Yes
+ABUJA Electricity Payment
+For Abuja electricity payment, use *945*28*meternumber*amount#
+EKO Electricity Payment
+For Eko electricity payment, use *945*25*meternumber*amount#
+Electricity Bill
+For your electricity bill, use *945*24#
+ENUGU Electricity Payment
+For Enugu electricity payment, use *945*29*meternumber*amount#
+IBADAN Electricity Payment
+For Ibadan electricity payment, use *945*27*meternumber*amount#
+IKEJA Electricity Payement
+For Ikeja electricity payment, use *945*26*meternumber*amount#
+JOS Electricity Payment
+For Jos electricity payment, use *945*30*meternumber*amount#
+KADUNA Electricity Payment
+For Kaduna electricity payment, use *945*31*meternumber*amount#
+KANO Electricity Payment
+For Kano electricity payment, use *945*32*meternumber*amount# PORTHARCOURT Electricity Payment
+For Portharcourt electricity payment, use *945*33*meternumber*amount#
+JAMB
+For JAMB, use *945*71#
+What is Fixed Term Loan?
+Fixed-term loan is an advance facility repayable in fixed monthly installments.
+I don't have a salary account with Wema bank, can I have access to a fixed-term loan?
+So sorry, you cannot have access to a fixed-term loan, kindly visit the nearest branch to open a salary account with Wema Bank.
+What is the maximum loan amount I can get?
+The Fixed-Term loan allows a loan at seven (7) multiples of your net monthly salary subject to a maximum of N2 million.
+What is the maximum loan tenure for a fixed-term loan?
+The maximum tenure for the fixed-term loan is 24 months
+How long does the loan take to get disbursed into my account?
+You will receive a response on the approval/decline of your request within 72hrs
+Can I apply for this loan without visiting the branch?
+Sincere apologies, you will be required to visit a branch to apply for this facility
+What collateral do I need for this loan?
+No collateral is required for this facility
+What are the documents required to access this facility?
+The documents required are;
+Letter of Introduction signed by authorized signatories of employer
+Irrevocable Letter of Salary Domiciliation (duly executed by employer's authorized signatories)
+N.B: The signatories must be independently verified by a representative of Wema Bank
+Proof of Income (3 months' payslips) or 3 months account statement
+Proof of address (Physical visitation and report by RM or Verifier DSA)
+Proof of Identity (Office ID is only acceptable but National ID, International Passport or
+Driver's License may be required where necessary) Duly completed Loan Application Form & executed offer section
+I am a new staff; can I access this loan?
+So sorry you cannot as 3 months' payslip is required.
+I don't have an ID Card yet; can I access this loan?
+A national means of identification may suffice to access this facility.
+I am an entrepreneur; can I access a fixed-term loan?
+Yes, all registered business owners can access this facility.
